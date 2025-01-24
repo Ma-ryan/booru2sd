@@ -11,7 +11,7 @@ Python 3.
 2. Paste and save your tags into your `.txt` file.
 3. Run `python booru2sd.py` in your terminal of choice.
 
-Tip: You can change the default filename and path of your `.txt` file by modifying line 44 in booru2sd.py.
+Tip: You can change the default filename and path of your `.txt` file by modifying line 44 in `booru2sd.py`.
 
 ### Example:
 
