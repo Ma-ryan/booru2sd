@@ -20,7 +20,11 @@ Input:<br/>
 <br/>Art by [Komota](https://danbooru.donmai.us/posts/5312769?q=komota_%28kanyou_shoujo%29).<br/>
 `komota_(kanyou_shoujo) 1girl black_dress black_ribbon child closed_mouth dress flower grey_eyes grey_hair head_wreath long_hair long_sleeves looking_at_viewer neck_ribbon pink_flower ribbon smile solo upper_body`
 
+Note: The meta tags `highres` and `protected_link` were omitted from this example, but were listed in the Danbooru source.
+
 Output:<br/>
 ![Model](example/output.png)<br/>
-Generated using [NoobaiCyberFix v3](https://civitai.com/models/913998/noobaicyberfix) (NoobAI Epsilon 1.1 derivative)<br/>
+Generated using [NoobaiCyberFix v3](https://civitai.com/models/913998/noobaicyberfix) (NoobAI Epsilon 1.1 derivative).<br/>
 `komota \(kanyou shoujo\), 1girl, black dress, black ribbon, child, closed mouth, dress, flower, grey eyes, grey hair, head wreath, long hair, long sleeves, looking at viewer, neck ribbon, pink flower, ribbon, smile, solo, upper body`
+
+Note: Quality tags were not used in the generated example image. It is recommended to add quality tags as recommended by your model (e.g. `masterpiece`, `best quality`, `highres`, etc).
