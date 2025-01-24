@@ -7,11 +7,11 @@ This is a simple script to quickly convert tags copied from Danbooru into someth
 Python 3.
 
 ### Usage:
-1. Create a `.txt` file in the same directory as `booru2sd.py` (deafault is `tags.txt`).
+1. Create a `.txt` file in the same directory as `booru2sd.py` (default is `tags.txt`).
 2. Paste and save your tags into your `.txt` file.
 3. Run `python booru2sd.py` in your terminal of choice.
 
-Tip: You can change the default filename and path of your `.txt` file by modiying line 44 in booru2sd.py.
+Tip: You can change the default filename and path of your `.txt` file by modifying line 44 in booru2sd.py.
 
 ### Example:
 
